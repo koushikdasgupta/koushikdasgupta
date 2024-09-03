@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Koushik Dasgupta.
 - 👀 I’m interested in exploring new technologies.
-- 🌱 I’m currently learning web development alongn with my graduation degree of Computer Science.
+- 🌱 I’m a gradute in Computer Application.
 - 💞️ I’m looking to collaborate with tech minded peoples and developers to gain knowledge about the working in this sector.
 - 📫 If u wanna connect with me you can definetely mail me at koushikdasgupta29@gmail.com or DM me at instagram over (double underscore)__koushik_dasgupta__(double underscore) .
 
